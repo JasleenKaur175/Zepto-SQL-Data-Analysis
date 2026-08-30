@@ -27,7 +27,13 @@ The main objectives of this project are to:
 
 ## 📁 Dataset Overview
 
-The dataset contains information about Zepto products and inventory.
+The dataset used in this project was sourced from Kaggle and is based on Zepto's e-commerce inventory data.
+
+The dataset contains 3,732 product records. Each row represents a product/SKU entry and contains information related to pricing, discounts, inventory, weight, and stock availability.
+
+### Data Source
+
+[Kaggle – Zepto Inventory Dataset](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset)
 
 ### Key Columns
 
