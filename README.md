@@ -136,7 +136,7 @@ This project uses several SQL concepts, including:
 
 ---
 
-## 📂 Project Files
+## 📁 Project Files
 
 ```text
 zepto-sql-data-analysis/
@@ -144,3 +144,24 @@ zepto-sql-data-analysis/
 ├── README.md
 ├── Zepto_SQL_Analysis.sql
 └── zepto_v2_import.csv
+```
+
+## 📸 Project Screenshots
+
+### Total Records
+![Total Records](./Total_records.png)
+
+### High Discount Products
+![High Discount Products](./High_discount_products.png)
+
+### High MRP Products That Are Out of Stock
+![High MRP Out of Stock](./High_mrp_outofstock.png)
+
+### Revenue by Category
+![Revenue by Category](./Revenue_by_Category.png)
+
+### Top Categories by Average Discount
+![Top Categories](./Top_categories_discount.png)
+
+### Weight Classification
+![Weight Classification](./Weight_Classification.png)
